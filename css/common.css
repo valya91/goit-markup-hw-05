@@ -102,6 +102,7 @@ body {
   display: flex;
   margin-left: auto;
   padding-left: 0px;
+  align-items: center;
 }
 
 /* .site-contact .item:before {
